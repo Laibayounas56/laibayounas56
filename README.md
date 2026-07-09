@@ -145,16 +145,6 @@ Complete event management platform for university societies with registrations, 
 
 ---
 
-##  GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Laibayounas56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laibayounas56&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Laibayounas56&theme=tokyonight&hide_border=true" />
-</p>
 
 #  GitHub Streak
 
