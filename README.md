@@ -11,6 +11,10 @@ Building production-ready software that solves real-world problems through clean
 <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://laibayounas-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 <a href="mailto:laibay517@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
