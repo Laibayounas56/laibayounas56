@@ -2,7 +2,7 @@
 
 #  Hi, I'm Laiba Younas
 
-### Full-Stack Software Developer • Product Engineer • AI Applications
+### Full-Stack Software Developer • Product Engineer • AI Engineer
 
 Building production-ready software that solves real-world problems through clean architecture, scalable systems, and modern technologies.
 
@@ -35,7 +35,7 @@ Building production-ready software that solves real-world problems through clean
 
 #  About Me
 
-I'm a Computer Science student passionate about engineering complete software products—from architecture and backend systems to polished frontends and deployment.
+I'm a Computer Science student passionate about engineering complete software products,from architecture and backend systems to polished frontends and deployment.
 
 Rather than building isolated features, I enjoy designing complete systems that solve practical problems.
 
